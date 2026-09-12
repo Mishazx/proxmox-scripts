@@ -10,6 +10,7 @@
 |---|---|
 | [`openwrt-installer/`](openwrt-installer/README.md) | Настройка IOMMU/VFIO passthrough и установка OpenWrt VM (x86_64) из официального образа |
 | [`opnsense-installer/`](opnsense-installer/README.md) | Установка OPNsense VM (x86_64) из официального `nano`-образа (serial-консоль) |
+| [`mikrotik-chr-installer/`](mikrotik-chr-installer/README.md) | Установка MikroTik RouterOS CHR (x86_64) из официального raw-образа |
 
 VyOS-инсталлер пока не сделан: бесплатного готового образа для прямого
 импорта у VyOS нет (только платная подписка или ISO с интерактивной
